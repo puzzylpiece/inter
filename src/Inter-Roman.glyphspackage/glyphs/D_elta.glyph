@@ -44,8 +44,8 @@ ref = Lambda;
 };
 guides = (
 {
-angle = 90;
 orientation = center;
+angle = 90;
 pos = (-96,1240);
 },
 {
@@ -141,8 +141,8 @@ ref = Lambda;
 };
 guides = (
 {
-angle = 90;
 orientation = center;
+angle = 90;
 pos = (-5039,1240);
 },
 {

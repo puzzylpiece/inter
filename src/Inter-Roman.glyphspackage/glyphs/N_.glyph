@@ -127,8 +127,8 @@ pos = (756,1676);
 associatedMasterId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
 guides = (
 {
-angle = 90;
 orientation = center;
+angle = 90;
 pos = (1116,284);
 }
 );
@@ -241,8 +241,8 @@ guides = (
 pos = (12,1652);
 },
 {
-angle = 90;
 orientation = center;
+angle = 90;
 pos = (900,240);
 }
 );
@@ -350,8 +350,8 @@ pos = (776,1676);
 associatedMasterId = m009;
 guides = (
 {
-angle = 90;
 orientation = center;
+angle = 90;
 pos = (0,1520);
 }
 );
@@ -985,8 +985,8 @@ guides = (
 pos = (12,1652);
 },
 {
-angle = 90;
 orientation = center;
+angle = 90;
 pos = (900,240);
 }
 );

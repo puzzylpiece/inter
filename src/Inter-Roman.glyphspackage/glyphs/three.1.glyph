@@ -2231,8 +2231,6 @@ width = 1080;
 );
 metricLeft = three;
 metricRight = three;
-note = "See also:
-/ezhcurl
-/ezhreversed";
+note = "See also:\012/ezhcurl\012/ezhreversed";
 unicode = 57453;
 }

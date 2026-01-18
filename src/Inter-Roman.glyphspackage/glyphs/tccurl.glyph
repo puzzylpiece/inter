@@ -8,12 +8,13 @@ background = {
 hints = (
 {
 horizontal = 1;
-place = (1118,146);
+place = (1118, 146);
+place = (1118, 146);
 type = Stem;
 },
 {
 origin = (1,0);
-place = (0,0);
+place = (0, 0);
 type = Stem;
 },
 {
@@ -25,7 +26,7 @@ type = TTStem;
 {
 horizontal = 1;
 options = 4;
-place = (1118,146);
+place = (1118, 146);
 type = TTStem;
 }
 );
@@ -734,12 +735,13 @@ background = {
 hints = (
 {
 horizontal = 1;
-place = (1118,146);
+place = (1118, 146);
+place = (1118, 146);
 type = Stem;
 },
 {
 origin = (1,0);
-place = (0,0);
+place = (0, 0);
 type = Stem;
 },
 {
@@ -751,7 +753,7 @@ type = TTStem;
 {
 horizontal = 1;
 options = 4;
-place = (1118,146);
+place = (1118, 146);
 type = TTStem;
 }
 );
@@ -1458,12 +1460,13 @@ pos = (1526,712);
 hints = (
 {
 horizontal = 1;
-place = (1118,146);
+place = (1118, 146);
+place = (1118, 146);
 type = Stem;
 },
 {
 origin = (1,0);
-place = (0,0);
+place = (0, 0);
 type = Stem;
 },
 {
@@ -1475,7 +1478,7 @@ type = TTStem;
 {
 horizontal = 1;
 options = 4;
-place = (1118,146);
+place = (1118, 146);
 type = TTStem;
 }
 );

@@ -19,8 +19,8 @@ width = 1211;
 {
 guides = (
 {
-angle = 90;
 orientation = center;
+angle = 90;
 pos = (928,-412);
 }
 );
@@ -64,8 +64,8 @@ width = 1120;
 {
 guides = (
 {
-angle = 90;
 orientation = center;
+angle = 90;
 pos = (928,-412);
 }
 );

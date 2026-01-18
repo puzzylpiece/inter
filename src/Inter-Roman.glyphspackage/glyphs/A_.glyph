@@ -186,8 +186,8 @@ pos = (672,1490);
 );
 guides = (
 {
-angle = 90;
 orientation = center;
+angle = 90;
 pos = (-8887,144);
 },
 {
@@ -420,8 +420,8 @@ angle = 90;
 pos = (1716,1832);
 },
 {
-angle = 90;
 orientation = center;
+angle = 90;
 pos = (-7546,144);
 },
 {
@@ -533,8 +533,8 @@ pos = (668,1490);
 associatedMasterId = m007;
 guides = (
 {
-angle = 90;
 orientation = center;
+angle = 90;
 pos = (-7546,144);
 },
 {
@@ -649,8 +649,8 @@ guides = (
 pos = (1036,1364);
 },
 {
-angle = 90;
 orientation = center;
+angle = 90;
 pos = (1020,964);
 }
 );
